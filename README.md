@@ -1,5 +1,7 @@
 # Introduction of git command
 
+    ### The projectRepo is maintained on the main branch
+
     ## git add
         * The purpose of this command is used for staging the file.It tells Git which file changes you want to include in the next commit.
 
